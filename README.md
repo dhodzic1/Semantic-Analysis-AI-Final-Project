@@ -3,7 +3,9 @@
 The following project was completed for the course CSC 434 Artificial Intelligence and Machine Learning, offered at The College of Brockport.
 
 Contributors: coleman3616, dhodzic1, kyle-knopp, mwarren585
+
 Date Completed: 12/2021, Fall Semester
+
 Institution: SUNY Brockport
 
 The code written was heavily referenced from the textbook, _"Deep learning with python"_ by Francois Chollet [1].
