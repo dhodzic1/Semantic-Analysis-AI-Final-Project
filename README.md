@@ -10,7 +10,7 @@ Institution: SUNY Brockport
 
 The code written was heavily referenced from the textbook, _"Deep learning with python"_ by Francois Chollet [1].
 
-Target: The goal of this project was to build a Natural Language Processing (NLP) model which utilizes multilabel classification to perform the task of semantic analysis.
+Target: The goal of this project was to build a Natural Language Processing (NLP) model which utilizes multilabel classification to perform the task of semantic analysis upon a set of data.
 
 REFERENCES:
 1. Chollet, Francois, “Getting started with neural networks: Classification and regression,” in Deep learning with python, S.l., CA: O'REILLY MEDIA, 2021.
