@@ -16,9 +16,12 @@ Associated Packages -
 * nltk
 * pandas
 
+Dataset Source -
+* Kaggle 
+
 The code written was heavily referenced from the textbook, _"Deep learning with python"_ by Francois Chollet [1].
 
-Overview:
+Overview: Following consecutive steps, building the desired NLP model involves importing a dataset, preprocessing through data tokenization, encoding, vectorization, creation of a model, and finally validation of the built model, thus meeting target requirements. Transformations done upon the original dataset are done in _sentence_df.py_ while preprocessing the data through vectorization into tensors as well as building, plotting, and validation of the model is done in _SOU.py_.
 
 REFERENCES:
 1. Chollet, Francois, “Getting started with neural networks: Classification and regression,” in Deep learning with python, S.l., CA: O'REILLY MEDIA, 2021.
