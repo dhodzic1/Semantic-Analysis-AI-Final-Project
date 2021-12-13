@@ -8,7 +8,7 @@ Date Submitted: 12/2021, Fall Semester
 
 Build Status: ![example param](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
 
-**Project Target**: The goal of this project is to build a Natural Language Processing (NLP) model which utilizes multilabel classification to perform the task of semantic analysis upon a set of data.
+**Project Target**: The goal of this project is to build a Natural Language Processing (NLP) model which utilizes multiclass classification to perform the task of semantic analysis upon a set of data.
 
 Built with -
 * Tensorflow
