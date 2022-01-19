@@ -1,4 +1,4 @@
-# Sentiment-Analysis-AI-Final-Project
+# Sentiment-Analysis-AI-Final-Competition
 
 Notes -
 * _The following project was completed for the course CSC 434 Artificial Intelligence and Machine Learning, offered at The College of Brockport._
